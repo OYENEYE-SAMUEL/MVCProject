@@ -1,4 +1,5 @@
 ﻿using Domain.Enum;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,8 +17,8 @@ namespace Domain.Entities
         public int Quantity { get; set; }
         public CategoryType CategoryType { get; set; }  
         public ICollection<FishPond> FishPonds { get; set; } = new HashSet<FishPond>();
-        public Guid StaffId { get; set; }
-        public Staff Staff { get; set; }
+        public ICollection<OrderFish> OrderFishes { get; set; } = new HashSet<OrderFish>();
+        public string FishImage { get; set; } = default!;
         public DateTime DateCreated { get; set; } = DateTime.UtcNow;
         public string? CreatedBy { get; set; }
         public bool IsDeleted { get; set; }

@@ -17,11 +17,12 @@ namespace Domain.Entities
         public Customer Customer { get; set; } = default!;
         public Guid? StaffId { get; set; }
         public Staff Staff { get; set; }
-        public ICollection<OrderFish> OrderFishItems { get; set; } = new HashSet<OrderFish>();  
+        public ICollection<OrderItem> OrderItems { get; set; } = new HashSet<OrderItem>();  
+        public ICollection<OrderFish> OrderFishes { get; set; } = new HashSet<OrderFish>();
         public string? CreatedBy { get; set; }
         public bool IsDeleted { get; set; }
     }
-    public class OrderFish
+    public class OrderItem
     {
         public Guid Id { get; set; } = Guid.NewGuid();
         public string Key { get; set; } = default!;

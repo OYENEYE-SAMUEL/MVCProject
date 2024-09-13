@@ -1,0 +1,1949 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\obj\\Debug\\net8.0\\Domain.csproj.FileListAbsolute.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Domain.csproj.FileListAbsolute.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\registercustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\orderbycustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\ordermessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\getorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\getfish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\getpendingorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\getorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\getfish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\orderfishrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\makeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\SourceServer\\ebe8f0d18e67c2760e5780e6e5c80f861b7ae2f52d1411a372b8a14f0b928b4a\\FishApp\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\wwwroot\\js\\makeorder.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\allfish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\shared\\_layout3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\allfish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\allponds.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\orderfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\orderfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\getpond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\hggdhgj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\fishpond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\fishpond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\fishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\services\\ifishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\c29dc3fcb39473b2931d5ec89979285922beb1695ad6b1208744ce16fb1cf820\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\fundwallet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\walletbalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\customer\\viewprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\fishapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\allrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\fileuploadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\createpond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\createfish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\approvedorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\services\\fishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\ponddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\services\\pondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\services\\ipondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\pond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\pond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\pondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\fishpondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\ifileuploadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\updatefish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\manager\\updatepond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\viewmodel\\pondupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\allmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\allfish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\ifishpondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\iorderfishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\allponds.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\enum\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:enum\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\ipondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\registermanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\getmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\admin\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\services\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B91A97A-B22A-45D1-8B9F-F6F9E484D47A}|..\\FishApp\\FishApp.csproj|c:\\users\\user\\desktop\\fishappefcore\\fishapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7EE44-8AE9-4FEF-86FD-CFBB78191780}|..\\Application\\Application.csproj|c:\\users\\user\\desktop\\fishappefcore\\application\\interfaces\\repositories\\ifishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|c:\\users\\user\\desktop\\fishappefcore\\domain\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617BAAA7-0FF2-416F-9EDB-CA2F12E4C6C6}|Domain.csproj|solutionrelative:enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAEF9C-0228-46E9-8A20-66E211C4A395}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\fishappefcore\\infrastructure\\migrations\\20240903121954_fishdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\GetOrderByCustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "..\\FishApp\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "..\\FishApp\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAuwLMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:18:04.898Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\StaffService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\StaffService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\StaffService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\StaffService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:50:52.142Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Domain.csproj.FileListAbsolute.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\obj\\Debug\\net8.0\\Domain.csproj.FileListAbsolute.txt",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Domain.csproj.FileListAbsolute.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\obj\\Debug\\net8.0\\Domain.csproj.FileListAbsolute.txt",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Domain.csproj.FileListAbsolute.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T00:54:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Entities\\Customer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:01:18.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:01:57.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:54:14.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:53:26.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\CustomerDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CustomerDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:01:39.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:59:02.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwK0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:53:09.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\FishApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\FishApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwD0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:48:10.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\FishApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "..\\FishApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAADwv7oAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:32:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\RegisterCustomer.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\RegisterCustomer.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\RegisterCustomer.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\RegisterCustomer.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:05:19.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderByCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\OrderByCustomer.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\OrderByCustomer.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\OrderByCustomer.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\OrderByCustomer.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIQAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T23:49:17.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\OrderMessage.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\OrderMessage.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\OrderMessage.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\OrderMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T11:10:50.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\GetOrder.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\GetOrder.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\GetOrder.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\GetOrder.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T23:36:15.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetFish.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\GetFish.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\GetFish.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\GetFish.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\GetFish.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T01:06:58.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetPendingOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetPendingOrders.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\GetPendingOrders.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetPendingOrders.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\GetPendingOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:29:44.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetOrder.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\GetOrder.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetOrder.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\GetOrder.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAI4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T23:45:44.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\DashBoard.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\DashBoard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T15:45:10.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\OrderDto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIA2wB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:49:26.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:37:24.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetFish.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetFish.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\GetFish.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetFish.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\GetFish.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:36:03.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:29:41.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderFishRespository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\OrderFishRespository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\OrderFishRespository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\OrderFishRespository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\OrderFishRespository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:00:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MakeOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\MakeOrder.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\MakeOrder.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\MakeOrder.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\MakeOrder.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T23:55:50.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\CurrentUser.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\CurrentUser.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:28:04.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T13:52:25.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\SourceServer\\ebe8f0d18e67c2760e5780e6e5c80f861b7ae2f52d1411a372b8a14f0b928b4a\\FishApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\ebe8f0d18e67c2760e5780e6e5c80f861b7ae2f52d1411a372b8a14f0b928b4a\\FishApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\SourceServer\\ebe8f0d18e67c2760e5780e6e5c80f861b7ae2f52d1411a372b8a14f0b928b4a\\FishApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\ebe8f0d18e67c2760e5780e6e5c80f861b7ae2f52d1411a372b8a14f0b928b4a\\FishApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:59:28.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "GetOrderByCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\GetOrderByCustomer.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\GetOrderByCustomer.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\GetOrderByCustomer.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\GetOrderByCustomer.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:26:03.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "makeorder.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\js\\makeorder.js",
+              "RelativeDocumentMoniker": "..\\FishApp\\wwwroot\\js\\makeorder.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\js\\makeorder.js",
+              "RelativeToolTip": "..\\FishApp\\wwwroot\\js\\makeorder.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T18:10:11.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AllFish.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\AllFish.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\AllFish.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\AllFish.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\AllFish.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAIBJwEAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T15:59:29.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\DashBoard.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\DashBoard.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAIBJwGQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:34:14.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T13:48:58.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout3.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout3.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Shared\\_Layout3.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout3.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Shared\\_Layout3.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAIBJwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T08:06:35.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AllFish.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\AllFish.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\AllFish.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\AllFish.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\AllFish.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:12:46.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AllPonds.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\AllPonds.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\AllPonds.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\AllPonds.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\AllPonds.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAIBJwEcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T15:54:41.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderFish.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\OrderFish.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderFish.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\OrderFish.cs",
+              "RelativeToolTip": "Entities\\OrderFish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:46:55.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T19:13:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetPond.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetPond.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\GetPond.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\GetPond.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\GetPond.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAABRwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:21:45.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:42:16.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FishApp\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Program.cs",
+              "RelativeToolTip": "..\\FishApp\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:10:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:32:39.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StaffDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\StaffDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\StaffDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\StaffDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\StaffDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:03:33.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "hggdhgj.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\hggdhgj.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\hggdhgj.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\hggdhgj.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\hggdhgj.cshtml",
+              "ViewState": "AQIAANsBAAAAAAAAAIBJwP8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T09:01:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IFishService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IFishService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Services\\IFishService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IFishService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Services\\IFishService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:37:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T12:07:44.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FishPond.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\FishPond.cs",
+              "RelativeDocumentMoniker": "Entities\\FishPond.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\FishPond.cs",
+              "RelativeToolTip": "Entities\\FishPond.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:04:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FishDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\FishDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\FishDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\FishDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\FishDto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAABYwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:02:18.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Fish.cs",
+              "RelativeDocumentMoniker": "Entities\\Fish.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Fish.cs",
+              "RelativeToolTip": "Entities\\Fish.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBJwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:42:20.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\c29dc3fcb39473b2931d5ec89979285922beb1695ad6b1208744ce16fb1cf820\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c29dc3fcb39473b2931d5ec89979285922beb1695ad6b1208744ce16fb1cf820\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\c29dc3fcb39473b2931d5ec89979285922beb1695ad6b1208744ce16fb1cf820\\CustomerController.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c29dc3fcb39473b2931d5ec89979285922beb1695ad6b1208744ce16fb1cf820\\CustomerController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAjwFwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:45:43.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\User\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\User\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\User\\DashBoard.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\User\\DashBoard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:09:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAIBJwGQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T08:07:23.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:13:41.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FundWallet.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\FundWallet.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\FundWallet.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\FundWallet.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\FundWallet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T11:17:26.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WalletBalance.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\WalletBalance.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\WalletBalance.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\WalletBalance.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\WalletBalance.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAIBJwEgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:52:13.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\ICurrentUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\ICurrentUser.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\ICurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:00:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIBQwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:30:10.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:04:12.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ViewProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\ViewProfile.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Customer\\ViewProfile.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Customer\\ViewProfile.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Customer\\ViewProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:48:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\RoleService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIBQwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:50:36.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\FishApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "..\\FishApp\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:19:35.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FishApp.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\FishApp.csproj",
+              "RelativeDocumentMoniker": "..\\FishApp\\FishApp.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\FishApp.csproj",
+              "RelativeToolTip": "..\\FishApp\\FishApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T12:49:41.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAACEAAAAAAAAAAABBwBUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T12:05:08.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "..\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Application.csproj",
+              "RelativeToolTip": "..\\Application\\Application.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T08:42:00.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\css\\dashboard.css",
+              "RelativeDocumentMoniker": "..\\FishApp\\wwwroot\\css\\dashboard.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\css\\dashboard.css",
+              "RelativeToolTip": "..\\FishApp\\wwwroot\\css\\dashboard.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-03T15:09:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AllRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllRole.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\AllRole.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllRole.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\AllRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T15:12:34.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "register.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\css\\register.css",
+              "RelativeDocumentMoniker": "..\\FishApp\\wwwroot\\css\\register.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\css\\register.css",
+              "RelativeToolTip": "..\\FishApp\\wwwroot\\css\\register.css",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwBsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-28T03:07:47.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FileUploadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\FileUploadRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\FileUploadRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\FileUploadRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\FileUploadRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:55:37.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CreatePond.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\CreatePond.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\CreatePond.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\CreatePond.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\CreatePond.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:38:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CreateFish.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\CreateFish.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\CreateFish.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\CreateFish.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\CreateFish.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:36:35.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ApprovedOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\ApprovedOrders.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\ApprovedOrders.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\ApprovedOrders.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\ApprovedOrders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T23:30:50.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FishService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\FishService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\FishService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\FishService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\FishService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAYwHUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:51:04.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PondDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\PondDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\PondDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\PondDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\PondDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:03:02.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PondService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\PondService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\PondService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\PondService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\PondService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:55:20.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IPondService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IPondService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Services\\IPondService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IPondService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Services\\IPondService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:30:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Pond.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Pond.cs",
+              "RelativeDocumentMoniker": "Entities\\Pond.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Pond.cs",
+              "RelativeToolTip": "Entities\\Pond.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:00:58.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20240903121954_fishdata.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Migrations\\20240903121954_fishdata.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20240903121954_fishdata.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Migrations\\20240903121954_fishdata.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20240903121954_fishdata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:19:55.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PondRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\PondRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\PondRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\PondRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\PondRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAApwCoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:25:48.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\FishApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\appsettings.json",
+              "RelativeToolTip": "..\\FishApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T08:54:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBZwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:12:23.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\FishRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\FishRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\FishRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\FishRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:26:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FishPondRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\FishPondRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\FishPondRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\FishPondRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\FishPondRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBZwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:36:07.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\FishApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\appsettings.Development.json",
+              "RelativeToolTip": "..\\FishApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T12:02:43.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IFileUploadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IFileUploadRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IFileUploadRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IFileUploadRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IFileUploadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:33:11.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:50:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UpdateFish.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\UpdateFish.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\UpdateFish.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\UpdateFish.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\UpdateFish.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAIBZwE4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T10:23:58.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UpdatePond.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\UpdatePond.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Manager\\UpdatePond.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Manager\\UpdatePond.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Manager\\UpdatePond.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAIBZwFoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:44:53.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "PondUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\ViewModel\\PondUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "..\\FishApp\\ViewModel\\PondUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\ViewModel\\PondUpdateViewModel.cs",
+              "RelativeToolTip": "..\\FishApp\\ViewModel\\PondUpdateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:19:15.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "..\\FishApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "..\\FishApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-30T16:27:57.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AllFish.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllFish.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\AllFish.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllFish.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\AllFish.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAIBpwC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:11:46.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AllManager.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllManager.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\AllManager.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllManager.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\AllManager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T19:53:14.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBVwBEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:38:07.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:54:23.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "Entities\\Staff.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\Staff.cs",
+              "RelativeToolTip": "Entities\\Staff.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:39:59.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:54:33.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IFishPondRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IFishPondRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IFishPondRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IFishPondRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IFishPondRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:37:47.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IOrderFishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IOrderFishRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IOrderFishRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IOrderFishRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IOrderFishRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:02:05.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:24:36.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\StaffRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\StaffRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\StaffRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:26:59.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:25:11.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "AllPonds.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllPonds.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\AllPonds.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\AllPonds.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\AllPonds.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAACBzwDMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:12:11.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\NotificationDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\NotificationDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:33:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Enum\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Enum\\CategoryType.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Enum\\CategoryType.cs",
+              "RelativeToolTip": "Enum\\CategoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:38:31.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IStaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IStaffRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IStaffRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IStaffRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IStaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:41:51.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "IPondRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IPondRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IPondRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IPondRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IPondRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:41:33.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "RegisterManager.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\RegisterManager.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\RegisterManager.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\RegisterManager.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\RegisterManager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:48:59.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CreateRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\CreateRole.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\CreateRole.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\CreateRole.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\CreateRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:26:31.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\DashBoard.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\DashBoard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:08:40.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "GetManager.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\GetManager.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Admin\\GetManager.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Admin\\GetManager.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Admin\\GetManager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T19:51:36.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\RoleDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\RoleDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:03:23.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\DTO\\UserDto.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:19:19.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:07:40.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\FishApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\FishApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T12:05:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IRoleService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Services\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:28:42.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IStaffService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Services\\IStaffService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IStaffService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Services\\IStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:29:30.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "Enum\\Status.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Enum\\Status.cs",
+              "RelativeToolTip": "Enum\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:31:07.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:42:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\FishApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\FishApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\FishApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:39:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:28:05.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "IUserRespository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IUserRespository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IUserRespository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IUserRespository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IUserRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:40:58.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:31:54.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:41:17.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "IFishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IFishRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Repositories\\IFishRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Application\\Interfaces\\Repositories\\IFishRepository.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Repositories\\IFishRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:42:30.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "Enum\\Gender.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Domain\\Enum\\Gender.cs",
+              "RelativeToolTip": "Enum\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:59:48.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FishAppEFCore\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:50:08.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
